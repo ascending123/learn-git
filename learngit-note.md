@@ -51,7 +51,7 @@ sudo apt-get install git-core
 
 [官网下载](https://git-scm.com/downloads)，安装完成后，“Git”->“Git Bash”即可打开
 
-#### Git配置
+#### Git配置为
 ``` 
 $ git config --global user.name "Your Name"
 $ git config --global user.email "email@example.com"
